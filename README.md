@@ -61,9 +61,9 @@ Click [My Git hub](https://github.com/pswxxk/AI_Project)
 
 debug console Sample `Debug.log("--")`
 
-'''C#
+```C#
 Debug.Log(Message)
-'''
+```
 
 <!-- TodoList-->
 - [x] #739
