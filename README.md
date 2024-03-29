@@ -41,7 +41,7 @@ MarkDown 내용 정리
 Click [My Git hub](https://github.com/pswxxk/AI_Project)
 
 <!-- Image -->
-![image](https://img.khan.co.kr/news/2023/12/31/l_2024010101000021800103831.webp)
+![image](https://i.namu.wiki/i/3jNqjpX9sgOn7D3HkSYewnWecpNw6iusPuHIXj8YmDUFUC-oGKNo1UdAQmR5jgPSKKxIO2vnMCoIwFhxen3zilLnwDR47hYaZ-e0Yv7PkK_rEgHcYmbY8kw_I9jC5ykoH3KXmta0uFlojRoTB5GuRw.webp)
 
 <!-- Table -->
 
