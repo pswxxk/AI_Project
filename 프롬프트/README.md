@@ -35,3 +35,13 @@ i2i
 ![image](https://github.com/pswxxk/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8/1.png?raw=true)
 
 ![image](https://github.com/pswxxk/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8/00011-1753039580.png?raw=true)
+
+# Control Art
+---
+### Line Art
+---
+![image](https://github.com/pswxxk/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8/xyz_grid-0226-3143948171-smile%20close-up,%20frill%20dress,%20dynamic%20angle,%20%20(front%20view_1.4)%20monochrome,%20lineart,%20_lyco_sd2ly_line_0.65_.jpeg?raw=true)
+
+![image](https://github.com/pswxxk/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8/00001-1853877872.png?raw=true)
+
+![image](https://github.com/pswxxk/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8/00000-207519790.png?raw=true)
