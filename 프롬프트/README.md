@@ -27,3 +27,11 @@ a girl with short hair in a black coat was standing in the snow,look up,the bree
 Negative prompt: (worst quality:2),(low quality:2),(normal quality:2),lowres,bad anatomy,bad hands,normal quality,difConsistency_negative_v2
 ```
 Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 7, Seed: 1983083233, Size: 512x512, Model hash: 9cb4b26531, Model: mengxMixReal_v3, VAE hash: df3c506e51, VAE: kl-f8-anime2.ckpt, Version: v1.8.0
+
+---
+i2i
+---
+
+![image](https://github.com/pswxxk/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8/1.png?raw=true)
+
+![image](https://github.com/pswxxk/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8/00011-1753039580.png?raw=true)
