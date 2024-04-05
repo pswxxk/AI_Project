@@ -45,3 +45,9 @@ i2i
 ![image](https://github.com/pswxxk/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8/00001-1853877872.png?raw=true)
 
 ![image](https://github.com/pswxxk/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8/00000-207519790.png?raw=true)
+
+---
+### Scribble Image
+![image](https://github.com/pswxxk/AI_Project/blob/main/ControlNet/%EA%B7%B8%EB%A6%BC%202.png?raw=true)
+
+![image](https://github.com/pswxxk/AI_Project/blob/main/ControlNet/00006-3751651105.png?raw=true)
