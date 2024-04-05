@@ -51,3 +51,18 @@ i2i
 ![image](https://github.com/pswxxk/AI_Project/blob/main/ControlNet/%EA%B7%B8%EB%A6%BC%202.png?raw=true)
 
 ![image](https://github.com/pswxxk/AI_Project/blob/main/ControlNet/00006-3751651105.png?raw=true)
+
+---
+### Depth
+![image](https://github.com/pswxxk/AI_Project/blob/main/ControlNet/18b663829e144de4f.png?raw=true)
+
+![image](https://github.com/pswxxk/AI_Project/blob/main/ControlNet/00014-3998520336.png?raw=true)
+
+---
+### Pixel
+![image](https://github.com/pswxxk/AI_Project/blob/main/ControlNet/00000.png?raw=true)
+
+![image](https://github.com/pswxxk/AI_Project/blob/main/ControlNet/00004-3717059370.png?raw=true)
+
+![image](https://github.com/pswxxk/AI_Project/blob/main/ControlNet/00002.png?raw=true)
+
