@@ -66,3 +66,26 @@ i2i
 
 ![image](https://github.com/pswxxk/AI_Project/blob/main/ControlNet/00002.png?raw=true)
 
+---
+### OpenPose
+![image](https://github.com/pswxxk/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8/112233.png?raw=true)
+
+![image](https://github.com/pswxxk/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8/pose-fighting-full-009-ar2x3.png?raw=true)
+
+![image](https://github.com/pswxxk/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8/00007-3111118621.png?raw=true)
+
+![image](https://github.com/pswxxk/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8/pose-fighting-half-014-ar2x3.png?raw=true)
+
+![image](https://github.com/pswxxk/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8/00005-602083871.png?raw=true)
+
+---
+### Seg
+![image](https://github.com/pswxxk/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8/556.png?raw=true)
+
+![image](https://github.com/pswxxk/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8/00009-3823568514.png?raw=true)
+
+---
+### Lora
+![image](https://github.com/pswxxk/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8/123333.png?raw=true)
+
+![image](https://github.com/pswxxk/AI_Project/blob/main/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8/00012-440352423.png?raw=true)
